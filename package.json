@@ -1,0 +1,27 @@
+{
+  "name": "nayin-dapp-gold",
+  "version": "1.0.0",
+  "description": "gold for nayin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoguan1985/nayin-dapp-gold.git"
+  },
+  "keywords": [
+    "glod",
+    "nayin"
+  ],
+  "author": "guanyu18518912569@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoguan1985/nayin-dapp-gold/issues"
+  },
+  "homepage": "https://github.com/xiaoguan1985/nayin-dapp-gold#readme",
+  "dependencies": {
+    "element-ui": "^2.15.14",
+    "nayin-tool": "^1.0.0"
+  }
+}
